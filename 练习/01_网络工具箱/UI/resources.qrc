@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icon">
+    <file alias="open">res/ic_menu_folder_open.png</file>
+    <file alias="save">res/ic_menu_save.png</file>
+    <file>res/ic_new.png</file>
+    <file>res/ic_open.png</file>
+    <file>res/ic_save.png</file>
+    <file>res/network.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>res/connected.png</file>
+    <file>res/disconnect.png</file>
+  </qresource>
+</RCC>

@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 from PyQt5.QtCore import *
 
-from ui.Ui_untitled import Ui_Form
+from ui22.Ui_untitled import Ui_Form
 
 class MyWidget(QWidget):
     
@@ -54,7 +54,6 @@ class MyWidget(QWidget):
     # 择偶要求
     def get_sex_requirement(self):
         return self.ui.plainTextEdit_1.toPlainText()
-    
         
     def zuce(self):
         print("用户名:", self.ui.lineEdit_1.text())
