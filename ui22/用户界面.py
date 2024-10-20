@@ -14,7 +14,7 @@ class MyWidget(QWidget):
         
         self.init_ui()
     
-    # 获取的用户名
+    # 获取的用户名WER
     def get_username(self):
         return self.ui.lineEdit_1.text()
    
